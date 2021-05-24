@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Company>N/A</Company>
+    <Authors>Curtis Caulfield</Authors>
+    <Description>Easy-to-use, offline file hash generator.</Description>
+    <Copyright>© Curtis Caulfield 2021</Copyright>
+    <Product>ChecksumGenerator</Product>
+    <PackageId>ChecksumGenerator</PackageId>
+    <AssemblyTitle>Checksum Generator</AssemblyTitle>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
